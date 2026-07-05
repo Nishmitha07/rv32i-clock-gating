@@ -73,11 +73,11 @@ Execute Instruction
 
 ## RTL Schematic
 
-(Add RTL image here)
+<img width="873" height="313" alt="image" src="https://github.com/user-attachments/assets/82bb7f03-e3e4-4b3c-bf38-8224f4d4eaa2" />
 
 ## Testbench Waveform
 
-(Add waveform image here)
+<img width="873" height="188" alt="image" src="https://github.com/user-attachments/assets/2077d71e-f358-401d-b660-e362b66c77dd" />
 
 ---
 
@@ -85,8 +85,8 @@ Execute Instruction
 
 - gating_top.v
 - gating_top_tb.v
-- Project_Report.pdf
-- RTL_Schematics.pdf
+- Report.pdf
+- RTL.pdf
 
 ---
 
